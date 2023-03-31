@@ -1,0 +1,25 @@
+#food1german1{
+    width: 380px;
+    height: 250px;
+
+}
+#food1italian{
+    width: 380px;
+    height: 250px;
+
+}
+#foods{
+    display:flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    background-color: blanchedalmond;
+}
+
+.divfood{
+    width: 380px;
+}
+#food1portugal{
+    width: 380px;
+    height: 250px;
+
+}
